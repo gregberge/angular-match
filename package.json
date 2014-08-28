@@ -1,0 +1,16 @@
+{
+  "name": "angular-input-equal",
+  "version": "0.0.0",
+  "description": "Validate if two inputs match the same value.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neoziro/angular-match.git"
+  },
+  "author": "Greg Bergé <berge.greg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neoziro/angular-match/issues"
+  },
+  "homepage": "https://github.com/neoziro/angular-match"
+}

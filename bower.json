@@ -12,7 +12,8 @@
     "node_modules",
     "bower_components",
     "package.json",
-    "test"
+    "test.js",
+    "Gruntfile.js"
   ],
   "dependencies": {
     "angular": "~1.2.23"

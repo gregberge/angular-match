@@ -4,6 +4,7 @@
   "description": "Validate if two inputs match the same value.",
   "main": "index.js",
   "scripts": {
+    "install": "bower install",
     "test": "./node_modules/karma/bin/karma start --single-run"
   },
   "repository": {

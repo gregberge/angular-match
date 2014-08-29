@@ -6,6 +6,7 @@
   "authors": [
     "Greg Bergé <neoziro@gmail.com>"
   ],
+  "main": "angular-match.js",
   "license": "MIT",
   "ignore": [
     "**/.*",

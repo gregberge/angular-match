@@ -1,6 +1,6 @@
 {
   "name": "angular-match",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate if two inputs match the same value.",
   "homepage": "https://github.com/neoziro/angular-match",
   "authors": [
